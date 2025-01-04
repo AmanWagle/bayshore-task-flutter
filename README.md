@@ -1,16 +1,34 @@
-# bayshore_task_frontend
+# Library Management System (LMS) - DEMO Flutter App
 
-A new Flutter project.
+The library management system has been developed as a part of test project for the role of Junior Developer & Support Engineer at bayshore healthcare.
 
-## Getting Started
+## Programming Languages
 
-This project is a starting point for a Flutter application.
+- Dart (Flutter)
 
-A few resources to get you started if this is your first Flutter project:
+## State Management
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Proivider
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## HTTP Client
+
+- http (https://pub.dev/packages/http)
+
+## Installation Process
+
+- Clone the repository
+  `https://github.com/AmanWagle/bayshore-task-flutter`
+
+- Install the dart packages
+  `flutter pub get`
+
+- Start the API server. (https://github.com/AmanWagle/bayshore-task-backend)
+- Navigate to `lib\utils\contstants.dart` and change the API URL if needed.
+
+## Testing on mobile device
+
+    flutter run
+
+## Building an apk
+
+    flutter build apk
