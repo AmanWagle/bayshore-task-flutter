@@ -1,14 +1,12 @@
 # Library Management System (LMS) - DEMO Flutter App
 
-The library management system has been developed as a part of test project for the role of Junior Developer & Support Engineer at bayshore healthcare.
-
 ## Programming Languages
 
 - Dart (Flutter)
 
 ## State Management
 
-- Proivider
+- Provider
 
 ## HTTP Client
 
@@ -17,7 +15,7 @@ The library management system has been developed as a part of test project for t
 ## Installation Process
 
 - Clone the repository
-  `https://github.com/AmanWagle/bayshore-task-flutter`
+  `https://github.com/AmanWagle/library-management-system-backend`
 
 - Install the dart packages
   `flutter pub get`
